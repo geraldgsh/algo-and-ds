@@ -29,3 +29,6 @@ function findArrayQuadruplet(arr, s) {
   }
   return []
 }
+
+let arr = [2, 7, 4, 0, 9, 5, 1, 3]
+let s =  20
